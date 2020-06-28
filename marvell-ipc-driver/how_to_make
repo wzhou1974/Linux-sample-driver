@@ -1,0 +1,1 @@
+make ARCH=arm CROSS_COMPILE=<path_to_compiler> -C <path_to_kernel> M=<source_dir_for_module>
